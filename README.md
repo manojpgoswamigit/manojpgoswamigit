@@ -1,4 +1,4 @@
-# Manoj Goswami - Salesforce Developer Extraordinaire 🌟
+# Manoj Goswami - Salesforce Developer 🌟
 
 ## Hello World! 👋
 
