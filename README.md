@@ -20,8 +20,7 @@ Welcome to my corner of the Salesforce universe! I'm Manoj, a passionate Salesfo
 
 ### Personal Interests
 - 🎮 **Gaming Enthusiast**: I enjoy competitive gaming as a creative and strategic outlet.
-- 🍣 **Sushi Aficionado**: A lover of culinary precision, I approach sushi with the same care and attention to detail as my code.
-- 📸 **Photography Hobbyist**: Capturing moments through the lens inspires my perspective in both personal and professional endeavors.
+- 🍻 **Cider fan**
 
 ### Let's Connect!
 - 🌐 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/manoj-goswami-%E2%98%81%EF%B8%8F%E2%9A%A1%F0%9F%8D%81-0977a2104/)
