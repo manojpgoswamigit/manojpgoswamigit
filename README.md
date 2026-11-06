@@ -2,7 +2,7 @@
 - Strong in architecture, integrations, and DevOps with hands-on CI/CD using Copado and Flosum.<br>
 - Core expertise: Health Cloud, OmniStudio, React, Node.js, REST/SOAP APIs, OAuth2 security.<br>
 - Currently leading end-to-end solution delivery at ApexArc for government healthcare platforms.<br>
-- 26x Salesforce Certified (Application, Integration, Data Architect) + 3x Salesforce Mentor.<br>
+- 27x Salesforce Certified (Application, Integration, Data Architect) + 3x Salesforce Mentor.<br>
 - All-Star Ranger with 600K+ Trailhead points, focused on scalable, secure, production-grade systems.
 
 
