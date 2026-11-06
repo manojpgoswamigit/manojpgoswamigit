@@ -5,8 +5,6 @@
 - 27x Salesforce Certified (Application, Integration, Data Architect) + 3x Salesforce Mentor.<br>
 - All-Star Ranger with 600K+ Trailhead points, focused on scalable, secure, production-grade systems.
 
-
-## 🌐 Socials:
 [![ApexArc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)](https://www.apexarc.ca) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-goswami-0977a2104) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojgoswami131@gmail.com) 
